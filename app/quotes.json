@@ -1,0 +1,19 @@
+{
+  "quotes": [
+    {
+      "id":1,
+      "author": "Vivian Greene",
+      "quote": "0123456789"
+    },
+    {
+      "id":2,
+      "author": "Maya Angelou",
+      "quote": "0123456789"
+    },
+    {
+      "id":3,
+      "author": "Confucius",
+      "quote": "0123456789"
+    }
+  ]
+}
