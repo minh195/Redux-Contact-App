@@ -29,6 +29,7 @@ class Main extends Component {
     render() {
         return (
             <Router>
+
                 <Scene key="root">
                     <Scene key="home" component={Home} title="Contact App" initial/>
                     <Scene key="new_quote" component={NewQuote} title="New Contact"/>
